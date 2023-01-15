@@ -11,5 +11,5 @@ I hope to go into game development one day with my CS career, since I really lik
 I think taking EDS124BR will be useful because learning how to teach CS might help me figure out how I learn too! I'm very excited to share my work.
 
 ## Week 1 Demonstration  
-Here is a link to my video demonstration for the house-drawing program we wrote in Snap:  
+Here is a link to my video demonstration for the house-drawing program we wrote in Snap (Sequences):  
 [Video of Demonstration](https://youtu.be/wxlCfg5H7Z4) 
