@@ -9,3 +9,7 @@ keep the lessons I create in the class EDS124BR for now. I'm hoping to eventuall
 ## Why I Chose CS
 I hope to go into game development one day with my CS career, since I really like videogames (I recently have been really liking [Kirby](https://youtu.be/XBvRzwXxzSQ) and FFXIV!). However, I also just want any job that lets me be a part of programming interesting and useful things.  
 I think taking EDS124BR will be useful because learning how to teach CS might help me figure out how I learn too! I'm very excited to share my work.
+
+## Week 1 Demonstration  
+Here is a link to my video demonstration for the house-drawing program we wrote in Snap:  
+[Video of Demonstration](https://youtu.be/wxlCfg5H7Z4) 
