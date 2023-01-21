@@ -12,4 +12,8 @@ I think taking EDS124BR will be useful because learning how to teach CS might he
 
 ## Week 1 Demonstration  
 Here is a link to my video demonstration for the house-drawing program we wrote in Snap (Sequences):  
-[Video of Demonstration](https://youtu.be/wxlCfg5H7Z4) 
+[Video of Demonstration (Sequences)](https://youtu.be/wxlCfg5H7Z4) 
+
+## Week 2 Demonstration  
+Here is a link to my video demonstration for the dancing sprite program we wrote in Snap (Repeats):  
+[Video of Demonstration (Repeats)](https://youtu.be/A5ba-yODVO0) 
