@@ -21,5 +21,6 @@ Here is a link to my video demonstration for the dancing sprite program we wrote
 
 ## Week 3 Demonstration
 [Video of Demonstration (Nested Repeats, Rat Draws an Octogon)](https://youtu.be/W5rCxi10KWk) 
+[Video of Demonstration (Events)](https://youtu.be/mkQRpLwPUeI)
 
 
