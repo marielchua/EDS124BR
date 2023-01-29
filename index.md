@@ -20,7 +20,7 @@ Here is a link to my video demonstration for the dancing sprite program we wrote
 [Video of Demonstration (Repeats Scratch: Kangaroo, Grasshopper, Bee)](https://youtu.be/w3n3UX-67c0)
 
 ## Week 3 Demonstration
-[Video of Demonstration (Nested Repeats, Rat Draws an Octogon)](https://youtu.be/W5rCxi10KWk) 
-[Video of Demonstration (Events)](https://youtu.be/mkQRpLwPUeI)
+[Video of Demonstration (Nested Repeats, Rat Draws an Octogon)](https://youtu.be/W5rCxi10KWk)  
+[Video of Demonstration (Events)](https://youtu.be/mkQRpLwPUeI) 
 
 
