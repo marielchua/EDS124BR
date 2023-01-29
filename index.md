@@ -17,6 +17,9 @@ Here is a link to my video demonstration for the house-drawing program we wrote 
 ## Week 2 Demonstration  
 Here is a link to my video demonstration for the dancing sprite program we wrote in Snap (Repeats):  
 [Video of Demonstration (Repeats)](https://youtu.be/A5ba-yODVO0)  
-[Video of Demonstration (Repeats Scratch: Kangaroo, Grasshopper, Bee)](https://youtu.be/w3n3UX-67c0) 
+[Video of Demonstration (Repeats Scratch: Kangaroo, Grasshopper, Bee)](https://youtu.be/w3n3UX-67c0)
+
+## Week 3 Demonstration
+[Video of Demonstration (Nested Repeats, Rat Draws an Octogon)](https://youtu.be/W5rCxi10KWk) 
 
 
