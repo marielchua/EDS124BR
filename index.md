@@ -24,6 +24,9 @@ Here is a link to my video demonstration for the dancing sprite program we wrote
 [Video of Demonstration (Events)](https://youtu.be/mkQRpLwPUeI) 
 
 ## Week 4 Demonstration  
-[Video of Demonstration(Variables)](https://youtu.be/pwXMKDkZB78)  
+[Video of Demonstration (Variables)](https://youtu.be/pwXMKDkZB78)  
+
+## Week 5 Demonstration  
+[Video of Demonstration (Conditional Loops)](https://youtu.be/jAXn58wZIj0)
 
 
