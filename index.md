@@ -32,4 +32,9 @@ Here is a link to my video demonstration for the dancing sprite program we wrote
 ## Week 6 Demonstration  
 [Video of Demonstration (If-Else)](https://youtu.be/UvLT0EYvdcQ)
 
+## Week 7 Demonstration  
+[Video of Demonstration (Nested If-Else)](https://youtu.be/aVikFni26bU)  
+
+
+
 
