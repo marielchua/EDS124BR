@@ -35,6 +35,9 @@ Here is a link to my video demonstration for the dancing sprite program we wrote
 ## Week 7 Demonstration  
 [Video of Demonstration (Nested If-Else)](https://youtu.be/aVikFni26bU)  
 
+## Week 8 Demonstration  
+[Video of Demonstration (Compound Conditionals)](https://youtu.be/gFb_y7l2PP0)
+
 
 
 
