@@ -39,7 +39,10 @@ Here is a link to my video demonstration for the dancing sprite program we wrote
 [Video of Demonstration (Compound Conditionals)](https://youtu.be/gFb_y7l2PP0)
 
 ## Week 9  Demonstration  
-[Video of Demonstration (Abstraction)](https://youtu.be/ii0q_K1PELQ)
+[Video of Demonstration (Abstraction)](https://youtu.be/ii0q_K1PELQ)  
+
+## Week 10 Demonstration  
+[Video of Demonstration (Lists)](https://youtu.be/hd66uI1bsLw) 
 
 
 
